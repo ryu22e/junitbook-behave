@@ -11,5 +11,5 @@ cd /path/to/junitbook-behave/
 virtualenv --distribute venv
 source venv/bin/activate
 pip install -r requirements.txt
-behave poker/features
+behave */features
 ```
