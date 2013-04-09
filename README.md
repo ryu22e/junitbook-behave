@@ -16,3 +16,5 @@ pip install -r requirements.txt
 ```
 behave */features
 ```
+
+[![Build Status](https://travis-ci.org/ryu22e/junitbook-behave.png?branch=master)](https://travis-ci.org/ryu22e/junitbook-behave)
