@@ -1,5 +1,5 @@
 behave==1.2.2
-distribute==0.6.36
+distribute==0.7.3
 parse==1.6.1
 py==1.10.0
 tox==1.4.3
