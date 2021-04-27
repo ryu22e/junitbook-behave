@@ -2,6 +2,6 @@ behave==1.2.2
 distribute==0.7.3
 parse==1.19.0
 py==1.10.0
-tox==1.4.3
+tox==3.23.0
 virtualenv==20.4.4
 wsgiref==0.1.2
