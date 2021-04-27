@@ -6,8 +6,8 @@
 まず最初に、以下の手順で環境設定を行います。
 ```
 cd /path/to/junitbook-behave/
-# ↓virtualenvは必須ではないけどお勧め。
-virtualenv --distribute venv
+# ↓venvは必須ではないけどお勧め。
+python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 ```
@@ -16,5 +16,3 @@ pip install -r requirements.txt
 ```
 behave */features
 ```
-
-[![Build Status](https://travis-ci.org/ryu22e/junitbook-behave.png?branch=master)](https://travis-ci.org/ryu22e/junitbook-behave)
